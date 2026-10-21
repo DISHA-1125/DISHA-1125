@@ -16,7 +16,7 @@ I build practical software while studying CSE. Public work includes a multilingu
 Additional features, metrics, and live demos are omitted until they are verified.
 ## Research
 - Research paper at **IEEE ATiGB 2026** (full title: **TODO**)
-- DOI: [https://doi.org/10.1109/ATiGB70203.2026](https://doi.org/10.1109/ATiGB70203.2026)
+- DOI: [https://doi.org/10.1109/ATiGB70203.2026](https://ieeexplore.ieee.org/document/11628256))
 ## Awards
 - **Best Paper Presentation Award**, IEEE ATiGB 2026, DaNang Vietnam (date: 10-11 JULY 2026)
 ## Certifications
